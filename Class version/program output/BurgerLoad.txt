@@ -1,0 +1,11 @@
+Queue 1
+Fist name: ghddc
+Last name: wfv
+
+
+Queue 2
+
+
+Queue 3
+
+Burger stock:50
